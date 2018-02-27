@@ -1,6 +1,6 @@
 # Notes App
 
-This includes a basic react and auth setup.
+Program for adding notes.
 
 ## Authors
 
